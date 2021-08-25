@@ -10,3 +10,6 @@ Sample website with dplenty of files for demos
 This is deployment example
 
 ## How to contribute
+Adding to contribute
+
+## Now this would be the major change
