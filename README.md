@@ -11,6 +11,7 @@ This is deployment example
 
 ## How to contribute
 Adding to contribute
+Please fork this repository and issue oull
 
 ## Now this would be the major change
 
