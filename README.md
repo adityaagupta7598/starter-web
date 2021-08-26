@@ -13,3 +13,7 @@ This is deployment example
 Adding to contribute
 
 ## Now this would be the major change
+
+## CopyRIght
+
+Git.Training
