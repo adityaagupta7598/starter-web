@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Aditya Gupta	adityagupta7598@gmail.com
 
 # THANKS
 
