@@ -21,4 +21,4 @@ More changes from myfeature branch
 
 ## CopyRIght
 
-Git.Training
+Stashing example
