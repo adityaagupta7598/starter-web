@@ -22,4 +22,4 @@ More changes from myfeature branch
 
 ## CopyRIght
 
-Stashing example
+new example
